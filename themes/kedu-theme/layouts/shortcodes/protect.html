@@ -1,0 +1,10 @@
+{{ with .Get "email" }}
+<span class="protected-email" 
+data-front={{ index (split . "@") 0 }}
+data-back={{ index (split . "@") 1 }}
+></span>
+{{ end }}
+
+{{ with (.Get "string") }}
+<span class="protected" data-string="{{ . }}"></span>
+{{ end }}

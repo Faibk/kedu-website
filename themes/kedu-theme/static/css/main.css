@@ -7,12 +7,17 @@ html, body {
 	line-height: 1.5;
 }
 
+p {
+	hyphens: auto;
+	hyphenate-limit-chars: 6 3 3;
+	hyphenate-limit-lines: 2;
+	hyphenate-limit-last: always;
+	hyphenate-limit-zone: 8%;
+}
+
 .main {
 	flex: 1;
-    display: flex;
-    flex-direction: column;
     padding: 30px;
-    flex-wrap: wrap;
 }
 
 .main-header {
@@ -124,6 +129,8 @@ a {
 @media (min-width: 800px) {
 
 	.main {
+		display: flex;
+		flex-wrap: wrap;
 	    flex-direction: row;
 	}
 

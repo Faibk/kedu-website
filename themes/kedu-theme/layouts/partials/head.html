@@ -8,4 +8,18 @@
 	<link href="https://fonts.googleapis.com/css2?family=Anonymous+Pro:wght@400;700&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="/css/main.css"/>
 	<link rel="stylesheet" href="/css/normalize.css"/>
+
+	{{ if .HasShortcode "protect" }}
+	<style type="text/css">
+	    .protected-email:before {
+	        content: attr(data-front) "\0040" attr(data-back);
+	        unicode-bidi: bidi-override;
+	    }
+
+	    .protected:before {
+	        content: attr(data-string);
+	        unicode-bidi: bidi-override;
+	    }
+	</style>
+	{{ end }}
 </head>
