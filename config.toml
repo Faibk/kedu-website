@@ -1,0 +1,48 @@
+baseURL = "http://kat.education/"
+languageCode = "de"
+title = "KEDU"
+theme = "kedu-theme"
+
+[markup]
+  	defaultMarkdownHandler = "goldmark"
+  	[markup.goldmark]
+    	[markup.goldmark.renderer]
+      		unsafe = true
+
+[menu]
+
+	[[menu.main]]
+	    identifier = "home"
+	    name = "Verein"
+	    title = "home section"
+	    url = "/"
+	    weight = 1
+
+   	[[menu.main]]
+	    identifier = "projects"
+	    name = "Projekte"
+	    title = "projects"
+	    url = "/projects"
+	    weight = 2
+
+	[[menu.main]]
+	    identifier = "funding"
+	    name = "Spenden"
+	    title = "Spenden"
+	    url = "/funding"
+	    weight = 3
+
+	[[menu.footer]]
+	    identifier = "legal"
+	    name = "Satzung"
+	    title = "Satzung"
+	    url = "/Satzung_10012020.pdf"
+	    weight = 2
+
+	[[menu.footer]]
+	    identifier = "impressum"
+	    name = "Impressum"
+	    title = "impressum"
+	    url = "/impressum"
+	    weight = 1
+

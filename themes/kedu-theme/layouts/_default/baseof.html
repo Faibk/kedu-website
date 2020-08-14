@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="{{- site.Language.Lang -}}" data-theme="{{- .Site.Params.displayMode -}}">
+    {{ partial "head.html" . }}
+    <body>
+    	<div class="wrapper">
+		    {{ partial "nav.html" . }}
+		    {{ partial "header.html" . }}
+		    <div class="main">{{ block "main" . }}{{ end }}</div>
+		    {{ partial "footer.html" . }}
+    	</div>
+    </body>
+
+</html>
