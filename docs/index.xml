@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KAT.education e.V. on KEDU</title>
-    <link>http://kat.education/</link>
+    <link>https://faibk.github.io/kedu-website/</link>
     <description>Recent content in KAT.education e.V. on KEDU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     
-	<atom:link href="http://kat.education/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://faibk.github.io/kedu-website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Impressum</title>
-      <link>http://kat.education/impressum/</link>
+      <link>https://faibk.github.io/kedu-website/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kat.education/impressum/</guid>
+      <guid>https://faibk.github.io/kedu-website/impressum/</guid>
       <description>Angaben gemäß § 5 TMG KAT.education e.V.
 Vereinsregister: VR 61334
 Registergericht: Ludwigshafen am Rhein
@@ -28,28 +28,28 @@ Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV Fabian Kögel</description
     
     <item>
       <title>Kontakt</title>
-      <link>http://kat.education/contact/</link>
+      <link>https://faibk.github.io/kedu-website/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kat.education/contact/</guid>
+      <guid>https://faibk.github.io/kedu-website/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projekte</title>
-      <link>http://kat.education/projects/</link>
+      <link>https://faibk.github.io/kedu-website/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kat.education/projects/</guid>
+      <guid>https://faibk.github.io/kedu-website/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spenden</title>
-      <link>http://kat.education/funding/</link>
+      <link>https://faibk.github.io/kedu-website/funding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kat.education/funding/</guid>
+      <guid>https://faibk.github.io/kedu-website/funding/</guid>
       <description>Sowohl Geld- als auch Sachspenden (nach Absprache) sind gerne gesehen. Spenden werden nur im Rahmen unseres satzungsgemäßen Vereinszweck verwendet.
 Überweisung Deutsche Skatbank
 IBAN: DE78 8306 5408 0004 1994 21
