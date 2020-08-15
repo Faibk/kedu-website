@@ -6,8 +6,8 @@
 	<title>{{ .Title }}</title>
 
 	<link href="https://fonts.googleapis.com/css2?family=Anonymous+Pro:wght@400;700&display=swap" rel="stylesheet">
-	<link rel="stylesheet" href="{{ "/css/main.css" | absURL }}"/>
-	<link rel="stylesheet" href="{{ "/css/normalize.css" | absURL }}"/>
+	<link rel="stylesheet" href="{{ "/css/main.css" | relURL }}"/>
+	<link rel="stylesheet" href="{{ "/css/normalize.css" | relURL }}"/>
 
 	{{ if .HasShortcode "protect" }}
 	<style type="text/css">
