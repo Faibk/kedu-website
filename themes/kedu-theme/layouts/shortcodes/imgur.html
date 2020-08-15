@@ -1,0 +1,39 @@
+<section id="imgur-photos">
+
+</section>
+<script>
+	container = document.querySelector('#imgur-photos');
+
+	headers = new Headers();
+	headers.append('Authorization', 'Client-ID {{ .Site.Params.ImgurClientId }}')
+	fetch('https://api.imgur.com/3/album/{{ .Get 0 }}/images', { headers }).then(response => response.json()).then(data => renderGallery(data));
+
+	function renderGallery(data) {
+		for (let block of data.data) {
+			let image = new Image();
+			image.src = block.link;
+			container.append(image);
+		}
+	}
+</script>
+
+<style type="text/css">
+	#imgur-photos {
+		/* Prevent vertical gaps */
+		line-height: 0;
+
+		-webkit-column-count: 2;
+		-webkit-column-gap:   0px;
+		-moz-column-count:    2;
+		-moz-column-gap:      0px;
+		column-count:         2;
+		column-gap:           0px;  
+		}
+
+	#imgur-photos img {
+		/* Just in case there are inline attributes */
+		width: 100% !important;
+		height: auto !important;
+	}
+
+</style>

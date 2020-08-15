@@ -4,6 +4,9 @@ languageCode = "de"
 title = "KEDU"
 theme = "kedu-theme"
 
+[params]
+	imgurClientId = "c49ece7d26d301d"
+
 [markup]
   	defaultMarkdownHandler = "goldmark"
   	[markup.goldmark]
