@@ -3,6 +3,7 @@ defaultContentLanguage = "de"
 languageCode = "de"
 title = "KEDU"
 theme = "kedu-theme"
+publishDir = "docs"
 
 [params]
 	imgurClientId = "c49ece7d26d301d"
