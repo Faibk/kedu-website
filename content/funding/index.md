@@ -1,7 +1,7 @@
 ---
 title: Spenden
 menu: main
-image: /img/donation.jpg
+image: /img/donation_small.jpg
 intro: Über Spenden finanzieren wir Anschaffungen zur Durchführung des Robotikwettbewerbs, z.B. Material, Beamer und Bühne, aber auch Mittagessen für die Kinder.
 ---
 Sowohl Geld- als auch Sachspenden (nach Absprache) sind gerne gesehen. Spenden werden nur im Rahmen unseres satzungsgemäßen Vereinszweck verwendet.

@@ -114,8 +114,6 @@ a {
 .content-single {
 	flex: 1;
 	padding: 30px;
-	width: 100%;
-	flex-basis: 100%;
 }
 
 .wrapper {
@@ -142,5 +140,9 @@ a {
   	.content-right {
   		margin: 0;
   		margin-left: 30px;
+  	}
+
+  	.content-single {
+  		flex-basis: 100%;
   	}
 }
