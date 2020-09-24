@@ -69,6 +69,9 @@ a {
 
 .logo {
 	position: relative;
+	max-width: 100vmin;
+	max-height: calc(100vmin - 60px);
+	overflow: hidden;
 	width: 100%;
 }
 
@@ -100,8 +103,6 @@ a {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	margin: -30px;
-	min-height: 70vh;
 }
 
 .content-right {
@@ -135,6 +136,7 @@ a {
   	.content-left {
   		margin: 0;
   		margin-right: 30px;
+  		min-height: 70vh;
   	}
 
   	.content-right {
