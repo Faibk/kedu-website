@@ -6,7 +6,7 @@
 
 	headers = new Headers();
 	headers.append('Authorization', 'Client-ID {{ .Site.Params.ImgurClientId }}')
-	fetch('https://api.imgur.com/3/album/{{ .Get 0 }}/images', { headers }).then(response => response.json()).then(data => renderGallery(data));
+	fetch('https://api.imgur.com/3/a/{{ .Get "album" }}/images', { headers }).then(response => response.json()).then(data => renderGallery(data));
 
 	function renderGallery(data) {
 		for (let block of data.data) {

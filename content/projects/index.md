@@ -1,5 +1,5 @@
 ---
-title: Projekte
+title: Engagement
 menu: 
      main:
          weight: 2
@@ -8,3 +8,14 @@ intro: 'Unser Hauptengagement ist aktuell die Organisation des Regionalwettbewer
 
 Der Forschungs- und Roboterwettbewerb für Kinder und Jugendliche von 6 – 16 Jahren fördert die Kompetenzen in den MINT Fächern durch vier Aufgabenstellungen in den Bereichen "Teamwork", "Forschung", "Roboterdesign" und "Robot-Game".'
 ---
+Unser Verein fördert die Arbeit mit Kindern und Jugendlichen in den Bereichen Technik, Informatik, Medien und Naturwissenschaften. Wir unterstützen die Durchführung der [_First_ LEGO League Challenge (FLL)](https://www.first-lego-league.org/de/challenge/startseite.html) mit der Organisation des Regionalwettbewerbs Speyer und Engagement der Vereinsmitglieder als Juroren und Schiedsrichter in Speyer und an anderen Austragunsorten. Zusätzlich stellen wir die vorhandene Technik und Spieltische für andere Austragungsorte und Veranstaltungen mit Bezug zu unserem Vereinszweck zur Verfügung.
+
+## Aktivitäten 2023
+
+- 18. Januar 2023 Unterstützung des [FLL Regionalwettbewerbs Rockenhausen](https://www.first-lego-league.org/de/austragungsorte/challenge?s=Challenge+2022%2F23&c=Rockenhausen&m=24039488855200) mit 2 Juroren
+- ~~20. Januar 2023 FLL Regionalwettbewerb Speyer~~ [Abgesagt aufgrund zu geringer Anmeldezahlen]
+- 18. Februar 2023 Unterstützung des [FLL Regionalwettbewerbs Frankfurt](https://first-lego-league-ffm.de/) mit 2 Juroren und Spieltischen
+- 5. März 2023 Unterstützung des [FLL Semi-Finals Ortenau](https://schule.hs-offenburg.de/fuer-schuelerinnen-und-schueler/first-lego-league/fll-challenge/first-lego-league-challenge-2022/23) mit 4 Juroren
+- 24. März 2023 Unterstützung des [FLL Final Dresden](https://www.first-lego-league.org/en/challenge-2022-23/finale-2022-23---dresden) im Rahmen der [Robotertage Dresden](https://meet-the-robots.de/first-lego-league/) mit 2 Juroren (Stellung des Head-Juror)
+
+{{< imgur-embed album="xbZdld2" >}}
