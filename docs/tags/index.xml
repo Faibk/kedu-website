@@ -4,11 +4,8 @@
     <title>Tags on KEDU</title>
     <link>https://kat.education/tags/</link>
     <description>Recent content in Tags on KEDU</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de</language>
-    
-	<atom:link href="https://kat.education/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://kat.education/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -4,60 +4,36 @@
     <title>KAT.education e.V. on KEDU</title>
     <link>https://kat.education/</link>
     <description>Recent content in KAT.education e.V. on KEDU</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de</language>
-    
-	<atom:link href="https://kat.education/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://kat.education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Engagement</title>
       <link>https://kat.education/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://kat.education/projects/</guid>
-      <description>Unser Verein fördert die Arbeit mit Kindern und Jugendlichen in den Bereichen Technik, Informatik, Medien und Naturwissenschaften. Wir unterstützen die Durchführung der First LEGO League Challenge (FLL) mit der Organisation des Regionalwettbewerbs Speyer und Engagement der Vereinsmitglieder als Juroren und Schiedsrichter in Speyer und an anderen Austragunsorten. Zusätzlich stellen wir die vorhandene Technik und Spieltische für andere Austragungsorte und Veranstaltungen mit Bezug zu unserem Vereinszweck zur Verfügung.
-Aktivitäten 2023   Januar 2023 Unterstützung des FLL Regionalwettbewerbs Rockenhausen mit 2 Juroren   20.</description>
+      <description>&lt;p&gt;Unser Verein fördert die Arbeit mit Kindern und Jugendlichen in den Bereichen Technik, Informatik, Medien und Naturwissenschaften. Wir unterstützen die Durchführung der &lt;a href=&#34;https://www.first-lego-league.org/de/challenge/startseite.html&#34;&gt;&lt;em&gt;First&lt;/em&gt; LEGO League Challenge (FLL)&lt;/a&gt; mit der Organisation des Regionalwettbewerbs Speyer und Engagement der Vereinsmitglieder als Juroren und Schiedsrichter in Speyer und an anderen Austragunsorten. Zusätzlich stellen wir die vorhandene Technik und Spieltische für andere Austragungsorte und Veranstaltungen mit Bezug zu unserem Vereinszweck zur Verfügung.&lt;/p&gt;&#xA;&lt;h2 id=&#34;aktivitäten-2023&#34;&gt;Aktivitäten 2023&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;18&#34;&gt;&#xA;&lt;li&gt;Januar 2023 Unterstützung des &lt;a href=&#34;https://www.first-lego-league.org/de/austragungsorte/challenge?s=Challenge+2022%2F23&amp;amp;c=Rockenhausen&amp;amp;m=24039488855200&#34;&gt;FLL Regionalwettbewerbs Rockenhausen&lt;/a&gt; mit 2 Juroren&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;del&gt;20. Januar 2023 FLL Regionalwettbewerb Speyer&lt;/del&gt; [Abgesagt aufgrund zu geringer Anmeldezahlen]&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;18&#34;&gt;&#xA;&lt;li&gt;Februar 2023 Unterstützung des &lt;a href=&#34;https://first-lego-league-ffm.de/&#34;&gt;FLL Regionalwettbewerbs Frankfurt&lt;/a&gt; mit 2 Juroren und Spieltischen&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;5&#34;&gt;&#xA;&lt;li&gt;März 2023 Unterstützung des &lt;a href=&#34;https://schule.hs-offenburg.de/fuer-schuelerinnen-und-schueler/first-lego-league/fll-challenge/first-lego-league-challenge-2022/23&#34;&gt;FLL Semi-Finals Ortenau&lt;/a&gt; mit 4 Juroren&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;24&#34;&gt;&#xA;&lt;li&gt;März 2023 Unterstützung des &lt;a href=&#34;https://www.first-lego-league.org/en/challenge-2022-23/finale-2022-23---dresden&#34;&gt;FLL Final Dresden&lt;/a&gt; im Rahmen der &lt;a href=&#34;https://meet-the-robots.de/first-lego-league/&#34;&gt;Robotertage Dresden&lt;/a&gt; mit 2 Juroren (Stellung des Head-Juror)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;aktivitäten-2024&#34;&gt;Aktivitäten 2024&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Juroren bei Regios in Limburg, Rockenhausen&lt;/li&gt;&#xA;&lt;li&gt;13-14.April 2024 Unterstützung &lt;a href=&#34;https://youtu.be/zrXCnv-kfDg&#34;&gt;FLL Finale D-A-CH in Davos&lt;/a&gt; mit 2 Juroren&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;aktivitäten-2025&#34;&gt;Aktivitäten 2025&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kategorieexperte für Jurywertung Roboterdesign&lt;/li&gt;&#xA;&lt;li&gt;Juroren bei Regios in Limburg, Mosbach, Offenburg und Rockenhausen&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;Feb 2025 Unterstützung &lt;a href=&#34;https://www.first-lego-league.org/de/challenge-2024-25/limburg-weilburg&#34;&gt;FLL Regio Limburg-Weilburg&lt;/a&gt; mit 4 Juroren&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;13&#34;&gt;&#xA;&lt;li&gt;Februar 2025 &lt;a href=&#34;https://www.first-lego-league.org/de/challenge-2024-25/deutschland---rockenhausen&#34;&gt;FLL Semifinale Rockenhausen&lt;/a&gt; mit 2 Juroren&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Betreuung von Explore Teams&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;geplant&#34;&gt;Geplant&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;Mai 2025  Organisation und Durchführung &lt;a href=&#34;https://www.first-lego-league.org/de/explore-2024-25/speyer&#34;&gt;FLL Explore in Römerberg&lt;/a&gt;, eigener Wettbewerb&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;28-30. Mär 2025 Unterstützung &lt;a href=&#34;https://www.first-lego-league.org/de/challenge-2024-25/finale-2024-25&#34;&gt;FLL D-A-CH Finale in Siegen&lt;/a&gt; mit 2 Juroren&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote class=&#34;imgur-embed-pub&#34; lang=&#34;de&#34; data-id=&#34;a/xbZdld2&#34;  &gt;&lt;a href=&#34;//imgur.com/a/xbZdld2&#34;&gt;Bildergalerie auf imgur ansehen&lt;/a&gt;&lt;/blockquote&gt;&#xD;&#xA;&#xD;&#xA;&lt;script async src=&#34;//s.imgur.com/min/embed.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&lt;style type=&#34;text/css&#34;&gt;&#xD;&#xA;&#x9;.imgur-embed-iframe-pub {&#xD;&#xA;&#x9;&#x9;margin: auto; &#xD;&#xA;&#x9;&#x9;}&#xD;&#xA;&lt;/style&gt;</description>
     </item>
-    
     <item>
       <title>Impressum</title>
       <link>https://kat.education/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://kat.education/impressum/</guid>
-      <description>Angaben gemäß § 5 TMG KAT.education e.V.
-Vereinsregister: VR 61334
-Registergericht: Ludwigshafen am Rhein
-Vertreten durch:
-Fabian Kögel
-Thomas Kögel (Stellvertretung)
-Kontakt Telefon: E-Mail: Umsatzsteuer-ID Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: 41/659/35463
-Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV Fabian Kögel</description>
+      <description>&lt;h3 id=&#34;angaben-gemäß--5-tmg&#34;&gt;Angaben gemäß § 5 TMG&lt;/h3&gt;&#xA;&lt;p&gt;KAT.education e.V.&lt;br&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;span class=&#34;protected&#34; data-string=&#34;Heiligensteinerstr. 10&#34;&gt;&lt;/span&gt;&#xD;&#xA;&lt;br&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;span class=&#34;protected&#34; data-string=&#34;67354 Römerberg&#34;&gt;&lt;/span&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Vereinsregister:&lt;/strong&gt; VR 61334&lt;br&gt;&#xA;&lt;strong&gt;Registergericht:&lt;/strong&gt; Ludwigshafen am Rhein&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Vertreten durch:&lt;/strong&gt;&lt;br&gt;&#xA;Fabian Kögel&lt;br&gt;&#xA;Thomas Kögel (Stellvertretung)&lt;/p&gt;&#xA;&lt;h3 id=&#34;kontakt&#34;&gt;Kontakt&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Telefon:&lt;/strong&gt; &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;span class=&#34;protected&#34; data-string=&#34;&amp;#43;4915779027928&#34;&gt;&lt;/span&gt;&#xD;&#xA;&lt;br&gt;&#xA;&lt;strong&gt;E-Mail:&lt;/strong&gt; &#xD;&#xA;&lt;span class=&#34;protected-email&#34; &#xD;&#xA;data-front=vorstand&#xD;&#xA;data-back=kat.education&#xD;&#xA;&gt;&lt;/span&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;h3 id=&#34;umsatzsteuer-id&#34;&gt;Umsatzsteuer-ID&lt;/h3&gt;&#xA;&lt;p&gt;Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:&#xA;41/659/35463&lt;/p&gt;&#xA;&lt;h3 id=&#34;verantwortlich-für-den-inhalt-nach--55-abs-2-rstv&#34;&gt;Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV&lt;/h3&gt;&#xA;&lt;p&gt;Fabian Kögel&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kontakt</title>
       <link>https://kat.education/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://kat.education/contact/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Spenden</title>
       <link>https://kat.education/funding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://kat.education/funding/</guid>
-      <description>Sowohl Geld- als auch Sachspenden (nach Absprache) sind gerne gesehen. Spenden werden nur im Rahmen unseres satzungsgemäßen Vereinszweck verwendet.
-Überweisung Deutsche Skatbank
-IBAN: DE78 8306 5408 0004 1994 21
-BIC: GENO DEF1 SLR
-Scheck KAT.education e.V.
-Wir sind vom Finanzamt als gemeinnützig anerkannt und berechtigt Spendenbescheinigungen nach §50 Abs. 1 EStDV auszustellen.</description>
+      <description>&lt;p&gt;Sowohl Geld- als auch Sachspenden (nach Absprache) sind gerne gesehen. Spenden werden nur im Rahmen unseres satzungsgemäßen Vereinszweck verwendet.&lt;/p&gt;&#xA;&lt;h3 id=&#34;überweisung&#34;&gt;Überweisung&lt;/h3&gt;&#xA;&lt;p&gt;Deutsche Skatbank&lt;br&gt;&#xA;IBAN: DE78 8306 5408 0004 1994 21&lt;br&gt;&#xA;BIC: GENO DEF1 SLR&lt;/p&gt;&#xA;&lt;h3 id=&#34;scheck&#34;&gt;Scheck&lt;/h3&gt;&#xA;&lt;p&gt;KAT.education e.V.&lt;br&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;span class=&#34;protected&#34; data-string=&#34;Heiligensteinerstr. 10&#34;&gt;&lt;/span&gt;&#xD;&#xA;&lt;br&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;span class=&#34;protected&#34; data-string=&#34;67354 Römerberg&#34;&gt;&lt;/span&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wir sind vom Finanzamt als gemeinnützig anerkannt und berechtigt Spendenbescheinigungen nach §50 Abs. 1 EStDV auszustellen.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

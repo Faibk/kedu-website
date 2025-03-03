@@ -4,11 +4,8 @@
     <title>KEDU</title>
     <link>https://kat.education/blog/</link>
     <description>Recent content on KEDU</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de</language>
-    
-	<atom:link href="https://kat.education/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://kat.education/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

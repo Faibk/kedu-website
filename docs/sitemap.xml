@@ -1,38 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://kat.education/blog/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kat.education/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kat.education/projects/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kat.education/impressum/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kat.education/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kat.education/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kat.education/funding/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kat.education/tags/</loc>
   </url>
-  
 </urlset>
