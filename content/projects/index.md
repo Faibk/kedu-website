@@ -30,11 +30,11 @@ Unser Verein fördert die Arbeit mit Kindern und Jugendlichen in den Bereichen T
 - 02. Feb 2025 Unterstützung [FLL Regio Limburg-Weilburg](https://www.first-lego-league.org/de/challenge-2024-25/limburg-weilburg) mit 4 Juroren
 - 13. Februar 2025 [FLL Semifinale Rockenhausen](https://www.first-lego-league.org/de/challenge-2024-25/deutschland---rockenhausen) mit 2 Juroren
 - Betreuung von Explore Teams
+- 28-30. Mär 2025 Unterstützung [FLL D-A-CH Finale in Siegen](https://www.first-lego-league.org/de/challenge-2024-25/finale-2024-25) mit 2 Juroren
 
 ### Geplant
 
 - 03. Mai 2025  Organisation und Durchführung [FLL Explore in Römerberg](https://www.first-lego-league.org/de/explore-2024-25/speyer), eigener Wettbewerb
-- 28-30. Mär 2025 Unterstützung [FLL D-A-CH Finale in Siegen](https://www.first-lego-league.org/de/challenge-2024-25/finale-2024-25) mit 2 Juroren
 
 {{< imgur-embed album="xbZdld2" >}}
 
